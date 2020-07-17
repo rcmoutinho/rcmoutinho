@@ -10,8 +10,6 @@ Developers are tired of stressful projects, working overnight, lots of repetitiv
 
 **[Download my FREE ebook to get my best recipes and also receive DevOps materials at your inbox!](https://cyborgdeveloper.tech)**
 
-### More
-
-- 📚 [Books](https://github.com/rcmoutinho/public-speaking#books)
-- 🍀 [Open Source](https://github.com/rcmoutinho/public-speaking#open-source)
-- 🗣 [Public Speaking](https://github.com/rcmoutinho/public-speaking)
+📚&nbsp;&nbsp;[Books](https://github.com/rcmoutinho/public-speaking#books)  
+🍀&nbsp;&nbsp;[Open Source](https://github.com/rcmoutinho/public-speaking#open-source)  
+🗣&nbsp;&nbsp;[Public Speaking](https://github.com/rcmoutinho/public-speaking)
